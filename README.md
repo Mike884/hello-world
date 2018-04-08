@@ -1,2 +1,4 @@
 # hello-world
-new one 
+
+Hi there!
+Today is study day!
